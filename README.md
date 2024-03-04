@@ -1,5 +1,5 @@
 ### Hi there, i'm Rizky. 👋
-- 🌱 I’m currently learning Laravel & Javascript
+🌱 I’m currently learning Laravel & Javascript
 
 
 <!--
